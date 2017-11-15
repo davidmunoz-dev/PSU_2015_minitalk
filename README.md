@@ -7,7 +7,7 @@ Beginning of the project : 01/02/2016, 07h42
 
 Group size : 1 person
 
-# BSQ
+# Minitalk
 
 Minitalk is a tiny client-server program in C.
 
